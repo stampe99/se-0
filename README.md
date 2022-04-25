@@ -16,4 +16,7 @@ python fetch.py
 - colorama
 - sys
 - ctypes
-
+- platform
+- psutil
+- os
+- distro
