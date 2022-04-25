@@ -20,3 +20,5 @@ python fetch.py
 - psutil
 - os
 - distro
+
+![Image](https://media.discordapp.net/attachments/920012918815354951/968192137919365250/unknown.png)
