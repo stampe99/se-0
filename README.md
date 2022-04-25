@@ -21,4 +21,4 @@ python fetch.py
 - os
 - distro
 
-![Image](https://media.discordapp.net/attachments/920012918815354951/968192137919365250/unknown.png)
+(![image](https://user-images.githubusercontent.com/92384039/165141544-536e3c56-2dcc-42a3-b56a-004e8de6e3e7.png))
