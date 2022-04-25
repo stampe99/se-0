@@ -5,8 +5,8 @@ A simple variant of neofetch written in Python.
 
 ### Install python [here](https://python.org/)
 
-git clone https://github.com/stampe99/se-0/
-cd se-0
+git clone https://github.com/stampe99/se-0/ && cd se-0
+
 ```ps
 pip install colorama
 pip install sys
